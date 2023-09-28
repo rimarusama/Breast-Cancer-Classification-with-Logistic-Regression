@@ -15,6 +15,7 @@ You can install them using pip:
 
 ```bash
 pip install numpy pandas scikit-learn
+```
 
 ### Usage
 1. Clone this repository to your local machine:
@@ -22,7 +23,7 @@ pip install numpy pandas scikit-learn
 2. Nevigate to the project directory:
   cd breat-cancer-classification
 3. Run the script:
-  python breast_cancer_classication.py
+  python Breast_Cancer_Prediction_using_LogisticsRegression.py
 
 ### Dataset
 The Breast Cancer dataset used in this project is available through scikit-learn's dataset module. It consists of various features describing tumor characteristics and is used to predict the presence of malignant or benign tumors.
